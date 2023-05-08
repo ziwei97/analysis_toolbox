@@ -20,6 +20,7 @@ def get_attribute(table,guid,attr):
     return response["Item"][attr]
 
 
+#change test
 
 
 def return_attribute(table,guid,attr):
